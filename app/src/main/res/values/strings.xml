@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jessica</string>
+    <string name="permdesc_manageVoiceKeyphrases">my personal assistant</string>
+
+    <string name="kws_caption">To start demonstration say \"jessica\".</string>
+    <string name="menu_caption">Say \"digits\", \"forecast\" or \"phones\" to choose the grammar, language model or phonetic decoder example.</string>
+    <string name="digits_caption">To try recognition of digits: say something like \"one two three four five\".</string>
+    <string name="forecast_caption">To try recognition of a weather forecast like \"sunny spells on Wednesday\".</string>
+    <string name="phone_caption">To try phonetic recognition say anything.</string>
+</resources>
